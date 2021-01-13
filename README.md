@@ -1,4 +1,5 @@
 # vue-phaser-hello-world
+Simple app for testing vue 2 + phaser.js 3
 
 ## Project setup
 ```
